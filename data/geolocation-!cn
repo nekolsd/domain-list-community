@@ -10,9 +10,6 @@ include:category-acg
 include:pubmatic
 include:taboola
 
-# Anti-censorship & Anti-GFW & Privacy protection & VPN tools
-include:category-anticensorship
-
 # Art & Design & Photography
 include:artstation
 include:dribbble
@@ -38,7 +35,6 @@ include:tesla
 include:volvo
 
 # Bank & Finance
-include:category-finance
 include:dowjones
 include:mastercard
 include:paypal
@@ -64,13 +60,13 @@ include:wistia
 include:category-cas
 
 # Communications
-include:category-communication
+include:category-im-!cn
 
 # Cryptocurrency
 include:category-cryptocurrency
 
 # E-commerce
-include:category-ecommerce
+include:category-ecommerce-!cn
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
 include:anandtech
@@ -110,7 +106,7 @@ include:w3schools
 chemequations.com # 线上化学方程式！
 
 # Entertainment & Games & Music & Podcasts & Videos
-include:category-entertainment
+include:category-entertainment-!cn
 
 # File & Image & Video hosting
 include:0x0
@@ -132,18 +128,18 @@ include:rumble
 include:streamable
 
 # Forums & Social network
-include:category-forums
+include:category-forums-!cn
 include:category-social-media-!cn
 
 # IPFS
 include:category-ipfs
 
 # Media & News & Press
-include:category-media
+include:category-media-!cn
 include:pugpig
 
 # Organizations
-include:category-orgs
+include:category-orgs-!cn
 
 # Porn
 include:category-porn
@@ -153,10 +149,8 @@ include:falungong
 
 # Services & Softwares
 include:category-android-app-download
-include:category-browser-!cn
 include:category-enhance-gaming
-include:category-mobile-repair
-include:category-ntp
+include:category-ntp-!cn
 include:decryptipastore # iOS
 
 include:accuweather
@@ -267,10 +261,10 @@ cookielaw.org
 onetrust.com
 
 # Software development
-include:category-dev
+include:category-dev-!cn
 
 # Tech companies
-include:category-companies
+include:category-tech-!cn
 
 # Torrent websites
 include:1337x
@@ -282,9 +276,6 @@ include:rarbg
 
 # User scripts
 greasyfork.org
-
-# VPN services
-include:category-vpnservices
 
 # Wiki
 include:fandom
