@@ -5,7 +5,6 @@ include:archlinux
 include:bootstrap
 include:braveux
 include:canonical
-include:category-container
 include:codeberg
 include:dart
 include:debian

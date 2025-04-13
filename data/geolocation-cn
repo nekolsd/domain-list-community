@@ -51,12 +51,6 @@ include:everbright
 include:pingan
 include:taikang
 
-# Blogs
-include:category-blog-cn
-
-# 餐饮类
-include:category-food-cn
-
 # 快递物流
 include:category-logistics-cn
 
@@ -144,19 +138,9 @@ winos.me # WINOS 精简社区
 # Media & News & Press
 include:category-media-cn
 
-# Netdisk
-include:category-netdisk-cn
-
-# Network Security
-include:category-network-security-cn
-
-# Organizations
-include:category-hospital-cn
-
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
 include:category-education-cn
 include:category-scholar-cn
-include:category-wiki-cn
 include:cugbonline
 include:guokr
 include:ihuman
@@ -275,9 +259,6 @@ include:chinabroadnet
 include:chinamobile
 include:chinatelecom
 include:chinaunicom
-
-# OI
-include:category-olympiad-in-informatics
 
 # 语言能力测试
 include:j-test
