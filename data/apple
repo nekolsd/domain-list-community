@@ -2,7 +2,6 @@ include:apple-ads
 include:apple-dev
 include:apple-pki
 include:apple-tvplus
-include:apple-update
 include:beats
 include:icloud
 include:itunes
@@ -740,6 +739,17 @@ xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
 xn--ohq11k7pl25iyo8a.cn @cn # 苹果专卖店.cn
 xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
 
+gg.apple.com
+gnf-mdn.apple.com
+gnf-mr.apple.com
+gs.apple.com
+ig.apple.com
+ns.itunes.apple.com
+osrecovery.apple.com
+skl.apple.com
+swdownload.apple.com
+swpost.apple.com
+
 full:apple.com.akadns.net
 full:courier-push-apple.com.akadns.net
 full:push-apple.com.akadns.net
@@ -776,6 +786,7 @@ full:init.itunes.apple.com @cn
 full:iosapps.itunes.apple.com @cn
 full:js-cdn.music.apple.com @cn
 full:km.support.apple.com @cn
+full:librarydaap.itunes.apple.com @cn
 full:maps.apple.com @cn
 full:misc-assets.itunes.apple.com @cn
 full:myapp.itunes.apple.com @cn
@@ -1019,3 +1030,4 @@ full:www.apple.com @cn
 full:www.apple.com.edgekey.net @cn
 full:www.apple.com.edgekey.net.globalredir.akadns.net @cn
 full:xp.apple.com @cn
+full:testflight.apple.com

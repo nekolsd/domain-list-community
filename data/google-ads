@@ -12,6 +12,7 @@ advertiserscommunity.com @ads
 adwords-community.com @ads
 adwords.com @ads
 adwordsexpress.com @ads
+app-analytics-services.com @ads
 app-measurement-cn.com @ads
 app-measurement.com @ads
 doubleclick-cn.net @ads
@@ -41,7 +42,5 @@ googlevads-cn.com @ads
 mail-ads.google.com @ads
 marketingplatform.google.com @ads
 urchin.com @ads
-
-full:analytics.google.com @ads
 
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$ @ads
