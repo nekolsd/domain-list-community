@@ -60,7 +60,6 @@ include:topcoder
 include:unity
 include:v8
 include:vim
-include:xda
 
 adventofcode.com
 alpinelinux.org
