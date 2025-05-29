@@ -1,0 +1,12 @@
+include:category-bank-jp
+
+include:hsbc
+include:ibkr
+include:ifast
+include:longbridge
+include:n26
+include:wise
+
+fxcorporate.com
+mql5.com
+tradingview.com
