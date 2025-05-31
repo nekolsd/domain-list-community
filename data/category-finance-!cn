@@ -1,5 +1,6 @@
 include:category-bank-jp
 
+include:fibank
 include:hsbc
 include:ibkr
 include:ifast
