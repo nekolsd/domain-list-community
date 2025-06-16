@@ -1,7 +1,6 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
 include:category-games-!cn
-include:category-novel
 
 include:abema
 include:amc
