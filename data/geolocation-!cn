@@ -155,6 +155,9 @@ include:category-enhance-gaming
 include:category-ntp-!cn
 include:decryptipastore # iOS
 
+include:rsshub
+include:rsshub-3rd
+
 include:accuweather
 include:adblock
 include:adblockplus
@@ -220,7 +223,6 @@ include:quip
 include:reabble
 include:rebrandly
 include:reurl
-include:rsshub
 include:sb
 include:setapp
 include:sharethis
