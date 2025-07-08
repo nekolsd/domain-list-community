@@ -69,7 +69,7 @@ include:qualcomm
 include:qwant
 include:razer
 include:salesforce
-include:samsung
+# include:samsung // Temporarily commenting out Samsung from the foreign tech entities list, its classification as 'foreign' is ambiguous because its services (e.g., Samsung Cloud) are forcibly redirected to the mainland China region when a Chinese SIM card is used, yet it lacks a clear, dedicated domain for these China-specific operations.
 include:skyperfect
 include:smartone
 include:snap
