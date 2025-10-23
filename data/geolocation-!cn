@@ -151,6 +151,7 @@ include:falungong
 include:apkcombo
 include:apkmirror
 include:apkpure
+include:category-antivirus
 include:category-enhance-gaming
 include:category-ntp-!cn
 include:decryptipastore # iOS
