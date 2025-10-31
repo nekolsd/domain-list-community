@@ -17,6 +17,7 @@ include:firebase
 include:flatpak
 include:flutter
 include:fontawesome
+include:framer
 include:gemfury
 include:gitbook
 include:github
@@ -51,6 +52,7 @@ include:ruby
 include:rust
 include:redhat
 include:scala
+include:sentry
 include:sourcehut
 include:stackexchange
 include:strikingly
