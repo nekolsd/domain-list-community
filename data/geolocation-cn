@@ -157,6 +157,9 @@ winos.me # WINOS 精简社区
 # Media & News & Press
 include:category-media-cn
 
+# Netdisk
+include:category-netdisk-cn
+
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
 include:category-education-cn
 include:category-scholar-cn
