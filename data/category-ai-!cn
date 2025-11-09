@@ -1,6 +1,8 @@
 include:anthropic
 include:cerebras
 include:cursor
+include:dola
+include:elevenlabs
 include:google-deepmind
 include:groq
 include:huggingface
@@ -12,6 +14,10 @@ include:xai
 # CodeRabbit
 coderabbit.ai
 coderabbit.gallery.vsassets.io
+
+# Cohere
+cohere.ai
+cohere.com
 
 # Jasper
 clipdrop.co

@@ -126,6 +126,7 @@ include:postimages
 include:pstorage
 include:rumble
 include:streamable
+include:terabox
 
 # Forums & Social network
 include:category-forums-!cn
@@ -311,3 +312,6 @@ include:tsquare
 include:windy
 include:xdty
 include:xingrz
+
+# 沉浸式翻译
+immersivetranslate.com
