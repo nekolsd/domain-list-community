@@ -155,6 +155,7 @@ include:apkpure
 include:category-antivirus
 include:category-enhance-gaming
 include:category-ntp-!cn
+include:category-password-management
 include:decryptipastore # iOS
 
 include:rsshub
@@ -168,9 +169,7 @@ include:addtoany
 include:adguard
 include:aptoide
 include:arphic
-include:authy
 include:bitly
-include:bitwarden
 include:blender
 include:brightcove
 include:buymeacoffee
@@ -194,7 +193,6 @@ include:hcaptcha
 include:heroku
 include:hurricaneelectric
 include:iina
-include:imageglass
 include:infrapedia
 include:inoreader
 include:isgd
@@ -207,7 +205,6 @@ include:localizejs
 include:madshi
 include:mapbox
 include:mega
-include:mpv
 include:netlify
 include:notion
 include:ok
@@ -252,6 +249,9 @@ include:zoho
 include:zoom
 
 biliplus.com # BiliPlus
+
+# Graphing for Science and Engineering
+originlab.com
 
 # Online LaTeX Editor
 cloudlatex.io

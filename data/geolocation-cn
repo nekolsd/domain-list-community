@@ -151,9 +151,12 @@ include:nga
 include:stage1st
 
 52pojie.cn # 吾爱破解
+anywlan.com # 无线论坛
+chinadsl.net # 宽带技术网
 chiphell.com # ChipHell
 chongbuluo.com # 虫部落
 erji.net # 耳机网
+itpub.net # ITPUB技术论坛
 itsk.com # IT天空论坛
 kafan.cn # 卡饭论坛
 kanxue.com # 看雪
@@ -163,6 +166,7 @@ klpbbs.com # 苦力怕论坛
 mcbbs.net # MCBBS论坛
 pcbeta.com # 远景论坛
 right.com.cn # 恩山论坛
+txrjy.com # 通信人家园
 uiwow.com # 魔兽有爱论坛
 wuyou.net # 无忧启动论坛
 
@@ -226,6 +230,20 @@ include:wjx
 include:wolai
 include:zdns
 include:zhangtao
+include:zhubajie
+
+# 中国天气网
+i8tq.com
+tq121.com.cn
+weather.com.cn
+weatherdt.com
+
+# 重庆阅品科技
+tianqi.com
+tianqistatic.com
+
+# TaCool SSL 酷证书
+tacool.com
 
 # 方正字库
 foundertype.com
@@ -279,18 +297,20 @@ include:tongfang
 include:vivo
 include:xiaomi
 include:xunlei
-include:ymtc
 include:youquan # 祐全科技
 include:yuanbei # 上海圆贝信息科技有限公司
 include:zte
 
 antutu.com # 安兔兔
+avlyun.com # 安天移动安全
 dida365.com # 滴答清单
+huolala.cn # 货拉拉
 huorong.cn # 火绒
 quickapp.cn # 快应用
 roborock.com # 石头科技
 socpk.com # 极客湾移动芯片排行
 udesk.cn # 沃丰科技
+viayoo.com # Via 浏览器
 yinxiang.com # 印象笔记
 
 # 酷控
@@ -339,15 +359,24 @@ ipshu.com # 鄂B2-20110095-1
 fofa.info # Fofa网站测绘（华顺信安）
 onedns.net # OneDNS（微步在线）
 
+# 氪主页
+51kim.com
+zhuye.kim
+# 乐游导航主页
+6-u.com
+# imsYY起始页
+imsyy.com
 # Infinity Pro（浏览器主页）
 infinitynewtab.com
 inftab.com
-
-# 某柠檬导航（浏览器主页）
-moulem.com
-
+# 可可牛导航
+kekeniu.com
 # 青柠起始页
 limestart.cn
+# 某柠檬导航（浏览器主页）
+moulem.com
+# 轻主页
+qzhuye.com
 
 # 街机
 include:aamgame
@@ -464,7 +493,6 @@ zzdtec.com
 500d.me
 50bang.org
 51.com
-51.la
 510you.com
 51credit.com
 51cto.com
@@ -634,7 +662,7 @@ chuangcdn.com
 chuangxin.com
 chuansong.me
 chuansongme.com
-chujingapp.com # 湘ICP备2022023629号-1 
+chujingapp.com # 湘ICP备2022023629号-1
 chushou.tv
 chuyu.me # 浙ICP备17002125 Dism++官网
 city8.com
@@ -677,7 +705,7 @@ danji100.com
 danji6.com
 daocloud.io
 daovoice.io
-daytx.cn # 京ICP备18023661号-1 
+daytx.cn # 京ICP备18023661号-1
 dayukaoshi.com
 dazijia.com
 dcdkjx.com
@@ -756,7 +784,6 @@ fimmu.com
 finchina.com
 fixdown.com
 fqjob.net
-freebuf.com
 fugetech.com
 fuwj.com
 fxxz.com
@@ -789,7 +816,7 @@ guabu.com
 guaiguai.com
 guanaitong.com
 guanhaobio.com
-guanyierp.com # 沪ICP备14043335号-8 
+guanyierp.com # 沪ICP备14043335号-8
 gucheng.com
 guigu.org
 guoxinmac.com
@@ -827,7 +854,6 @@ hiyd.com
 hktheone.com
 hn-cbec.com
 hnrcsc.com
-hntv.tv
 hnyuyuhui.com
 hollycrm.com
 homeinns.com
@@ -857,14 +883,13 @@ ijiandao.com
 ikafan.com
 im2maker.com
 im-cc.com
-imacos.top # 黑苹果屋 滇ICP备20000138号-1 
+imacos.top # 黑苹果屋 滇ICP备20000138号-1
 imgcdc.com
 imooc.com
 indienova.com
 infoq.com
 infoqstatic.com
 ip-cdn.com
-ipinyou.com
 iranshao.com
 irs01.com
 istoreos.com # 粤ICP备20024441号-9
@@ -1084,7 +1109,6 @@ qh24.com
 qiangbus.com
 qianjia.com
 qianlima.com
-qianzhan.com
 qiaobutang.com
 qie.tv
 qifeiye.com
@@ -1111,7 +1135,6 @@ ruiwen.com
 runoob.com
 rzrc114.com
 saibo.com
-sanguosha.com
 sanwen.net
 sast.fun
 scdng.com
@@ -1179,7 +1202,6 @@ t1y5.com
 taihe.com
 taihuoniao.com
 tangeche.com
-tanx.com
 tao123.com
 taoche.com
 te5.com
@@ -1187,8 +1209,6 @@ tenxcloud.com
 tianjimedia.com
 tianjin-air.com
 tianlailive.com
-tianqi.com
-tianqistatic.com
 tietuku.com
 tiexue.net
 timedoo.com
@@ -1218,7 +1238,6 @@ tuwan.com
 tuwanjun.com
 tvmao.com
 tvzhe.com
-txrjy.com # 沪ICP备12002292号
 u.tools
 ucbug.com
 uggame.com
@@ -1382,7 +1401,6 @@ z28j.com # 鄂ICP备20002930号-1
 zampda.net
 zampdsp.com
 zastatic.com
-zbjimg.com
 zczj.com
 zdfans.com
 zgjm.org
@@ -1405,9 +1423,6 @@ zhongkao.com
 zhuangjiba.com
 zhuanyewanjia.com
 zhuayoukong.com
-zhubajie.com
-zhugeapi.net
-zhugeio.com
 zimuzu.io
 zixiaomao.com
 zixuntop.com
@@ -1538,7 +1553,7 @@ bdmyandex.com
 bdcat.top
 puddingcat.top
 
-# 宁停车 
+# 宁停车
 ningtingche.com
 
 # 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
@@ -1549,3 +1564,6 @@ qunliao.info
 
 # 陕ICP备2024035828号
 ao-x.ac.cn
+
+# 万集科技 京ICP备18036282号-2
+wanji.net.cn

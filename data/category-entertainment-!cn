@@ -41,6 +41,7 @@ include:mytvsuper
 include:netflix
 include:niconico
 include:now
+include:okko
 include:olevod
 include:pbs
 include:pixiv
@@ -79,7 +80,6 @@ fireside.fm
 internationalsaimoe.com
 joox.com
 linetv.tw
-litv.tv
 megaphone.fm
 mikanani.me
 moov.hk
@@ -88,7 +88,6 @@ omobi.cc
 oranum.com
 overcast.fm
 syosetu.com
-thetvdb.com
 weverse.io
 yande.re
 
