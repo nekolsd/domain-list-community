@@ -10,14 +10,10 @@ include:category-dev-cn
 include:category-electronic-cn
 # Entertainment & Videos & Games & Music & Podcasts
 include:category-entertainment-cn
-# 餐饮类
-include:category-food-cn
 # 快递物流
 include:category-logistics-cn
 # Media & News & Press
 include:category-media-cn
-# Network Security
-include:category-network-security-cn
 # Social Media
 include:category-social-media-cn
 
@@ -176,7 +172,6 @@ upe.net # 优启通官网（IT天空）
 winos.me # WINOS 精简社区
 
 # Healthcare
-include:category-hospital-cn
 ## 丁香园
 biomart.cn
 dxy.com
@@ -221,7 +216,6 @@ ume-trip.cn
 
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
 include:category-education-cn
-include:category-olympiad-in-informatics
 include:category-scholar-cn
 include:guokr
 include:ihuman
@@ -246,7 +240,7 @@ include:category-ai-cn
 include:category-collaborate-cn
 include:category-documents-cn
 include:category-enterprise-query-platform-cn
-include:category-game-accelerator-cn
+include:category-game-accelerator
 include:category-netdisk-cn
 include:category-ntp-cn
 
