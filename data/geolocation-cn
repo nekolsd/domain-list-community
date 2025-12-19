@@ -44,12 +44,15 @@ hsqh.net
 lu.com
 lufax.com
 lufaxcdn.com
+## 银豹收银系统
+pospal.cn
 
 # CDN or SDWAN
 include:aws-cn
 include:baishancloud
 include:bootcdn
 include:cloudflare-cn
+include:ctyun
 include:dwion
 include:maocloud
 include:qingcloud
@@ -292,6 +295,7 @@ include:linakesi
 include:mafengwo
 include:meitu
 include:moji
+include:moonvy
 include:nowcoder
 include:polyv
 include:qweather
