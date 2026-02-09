@@ -6,7 +6,7 @@ include:gracg
 include:hupu
 include:meipian
 include:okjike
-include:sina @-!cn
+include:sina
 include:xiaohongshu
 include:yy
 include:zhihu
