@@ -92,6 +92,7 @@ include:westerndigital
 include:wisekey
 include:yahoo
 include:yandex
+include:zscaler
 
 auth0.com
 civitai.com
