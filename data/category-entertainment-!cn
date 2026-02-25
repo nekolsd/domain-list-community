@@ -1,6 +1,15 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
-include:category-acg
+# ACG
+colorfulstage.com
+crypton.co.jp
+lapriere.jp
+magicalmirai.com
+mikuexpo.com
+piapro.net
+snowmiku.com
+bowlroll.net
+
 include:category-games-!cn
 
 include:7tv
@@ -87,6 +96,7 @@ joox.com
 kpacg.com
 linetv.tw
 megaphone.fm
+megogo.net
 mikanani.me
 moov.hk
 odysee.com

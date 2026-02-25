@@ -1,17 +1,54 @@
 # List of all domains that have access point in China mainland
 
-# Automobiles
-include:category-automobile-cn
-# Blogs
-include:category-blog-cn
+# Document & Knowledge sharing
+include:doc88
+include:docin
+
+# Automobile
+autohome.com
+autohome.com.cn
+autohome.tel
+autoimg.cn
+autoimg.com.cn
+include:bitauto
+include:dongchedi
+byd.com
+geely.com
+gwm.com.cn
+lixiang.com
+nio.cn
+xiaopeng.com
+zeekrlife.com
+gzurl.cn
+guazi.com
+guazistatic.com
+guazi.net
+1hai.cn
+izuche.com
+izuchebao.com
+wkzuche.com
+zuche.com
+zuchecdn.com
+
 # Software development related
 include:category-dev-cn
 # Electronic
 include:category-electronic-cn
 # Entertainment & Videos & Games & Music & Podcasts
 include:category-entertainment-cn
-# 快递物流
-include:category-logistics-cn
+# Logistics
+include:800best
+include:cainiao
+include:deppon
+include:fcbox
+include:jtexpress
+include:kuaidi100
+include:sf-express
+include:sto-express
+include:yto-express
+include:yundaex
+include:zto-express
+guoocang.com
 # Media & News & Press
 include:category-media-cn
 # Social Media
@@ -27,9 +64,6 @@ sensorsdata.cn
 
 # category-httpdns-cn is mainly for advertising purpose
 include:category-httpdns-cn
-
-# 号码认证
-# include:category-number-verification-cn
 
 # Bank & Finance & Insurance & Securities
 include:category-bank-cn

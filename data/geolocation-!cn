@@ -62,7 +62,44 @@ include:category-im-!cn
 include:category-cryptocurrency
 
 # E-commerce
-include:category-ecommerce-!cn
+include:adidas
+include:airbnb
+include:bestbuy
+include:booking
+include:books
+include:costco
+include:coupang
+include:craigslist
+include:dmm
+include:ebay
+include:ebuyer
+include:farfetch
+include:ggsel
+include:gucci
+include:hm
+include:homedepot
+include:ikea
+include:miniso
+include:momo
+include:muji
+include:nike
+include:nordstrom
+include:pchome
+include:rakuten
+include:ruten
+include:shopee
+include:shopify
+include:suruga-ya
+include:target
+include:technogym
+include:walmart
+include:wish
+
+axbdoll.com.tw
+i69.com.tw
+pornhubapparel.com
+readmoo.com
+redino.tw
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
 include:anandtech
@@ -100,7 +137,7 @@ include:udemy
 include:w3schools
 include:zotero
 
-chemequations.com # 线上化学方程式！
+chemequations.com
 geogebra.org
 wolframalpha.com
 
@@ -108,7 +145,6 @@ wolframalpha.com
 include:category-entertainment-!cn
 
 # File & Image & Video hosting
-include:0x0
 include:casimages
 include:cloudinary
 include:dropbox
@@ -126,6 +162,7 @@ include:pstorage
 include:rumble
 include:streamable
 include:terabox
+0x0.st
 
 # Forums & Social network
 include:category-forums-!cn
@@ -139,7 +176,33 @@ include:category-media-!cn
 include:pugpig
 
 # Organizations
-include:category-orgs-!cn
+include:creativecommons
+include:csis
+include:emojipedia
+include:f-droid
+include:grapheneos
+include:ieee
+include:metabrainz
+include:nist
+include:openstreetmap
+include:paskoocheh
+include:peppy
+include:ruleoflaw
+
+aomedia.org
+atypi.org
+change.org
+globalsecurity.org
+iana.org
+ietf.org
+itu.int
+opte.org
+smpte.org
+un.org
+w3.org
+who.int
+wi-fi.org
+wto.org
 
 # Porn
 include:category-porn
