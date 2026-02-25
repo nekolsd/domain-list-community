@@ -18,7 +18,6 @@
 # xn--j6w193g  # 香港 Hong Kong SAR, People's Republic of China
 
 include:google-registry-tld
-include:tld-ru
 
 # Used by U.S. federal government
 gov
