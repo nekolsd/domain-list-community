@@ -34,7 +34,7 @@ apple.com.af
 apple.com.au
 apple.com.bo
 apple.com.br
-apple.com.cn @cn
+apple.com.cn
 apple.com.co
 apple.com.de
 apple.com.do
@@ -804,6 +804,7 @@ full:su.itunes.apple.com @cn
 full:sync.itunes.apple.com @cn
 full:tf-feedback.itunes.apple.com @cn
 full:upp.itunes.apple.com @cn
+full:www.apple.com.cn @cn
 full:www.support.apple.com @cn
 
 # regexp:^a[1-5]\.mzstatic\.com$ @cn
