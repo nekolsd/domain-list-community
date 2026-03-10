@@ -75,6 +75,8 @@ include:taikang
 
 ## 航财通·校园付
 cc-pay.cn
+## 合利宝
+helipay.com
 ## 徽商期货有限责任公司
 hsqh.net
 ## 上海陆金所
@@ -83,6 +85,8 @@ lufax.com
 lufaxcdn.com
 ## 银豹收银系统
 pospal.cn
+## 上海付费通
+shfft.com
 
 # CDN or SDWAN
 include:category-cdn-cn
@@ -630,7 +634,6 @@ ycrx360.com
 35.com
 3533.com
 360aiyi.com
-360doc.com
 360jq.com
 360zhyx.com
 365azw.com
@@ -1491,7 +1494,6 @@ youxigt.com
 youzu.com
 yoyojie.com
 yoyou.com
-ypppt.com
 yrz.name
 yslyhr.com
 ysten.com

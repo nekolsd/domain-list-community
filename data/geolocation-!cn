@@ -121,7 +121,6 @@ include:embl
 include:freecodecamp
 include:kaggle
 include:khanacademy
-include:knovel
 include:laracasts
 include:libgen
 include:lifewire
@@ -321,6 +320,10 @@ cookielaw.org
 onetrust.com
 osano.com
 usercentrics.eu
+## Dynatrace
+dynatrace.com
+## FamilySearch
+familysearch.org
 ## Greasy Fork
 greasyfork.org
 ## Online LaTeX Editor
