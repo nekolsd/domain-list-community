@@ -55,6 +55,8 @@ include:getui
 include:growingio
 include:jiguang
 
+# 北京贵士信息科技有限公司
+qchannel03.cn
 # 神策数据
 sensorsdata.cn
 
@@ -62,7 +64,6 @@ sensorsdata.cn
 include:category-httpdns-cn
 
 # Bank & Finance & Insurance & Securities
-include:category-bank-cn
 include:category-securities-cn
 include:eastmoney
 include:everbright
