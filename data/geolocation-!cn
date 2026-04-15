@@ -30,6 +30,7 @@ include:typography
 include:webtype
 
 bunka.go.jp
+uxthemes.com
 
 # Automobile
 include:bmw
@@ -138,7 +139,9 @@ include:udemy
 include:w3schools
 include:zotero
 
-chemequations.com
+ankiuser.net
+ankiweb.net
+chemequations.com # 线上化学方程式！
 geogebra.org
 wolframalpha.com
 
@@ -311,6 +314,8 @@ include:zoom
 auroraoss.com
 ## BiliPlus
 biliplus.com
+## Canny (Customer Feedback Management)
+canny.io
 ## CataBoom
 cataboom.com
 ## Consent Management Platforms / Cookie service

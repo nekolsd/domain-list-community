@@ -17,6 +17,7 @@ include:blurams
 include:broadcom
 include:canon
 include:canva
+include:carrotquest
 include:chegg
 include:cisco
 include:cloudcone
@@ -34,6 +35,7 @@ include:gigabyte
 include:gmo-internet
 include:godaddy
 include:google
+include:headhunter
 include:hetzner
 include:hinet
 include:hkbn
@@ -54,6 +56,7 @@ include:louisvuitton
 include:meta
 include:microsoft
 include:mikrotik
+include:mindbox
 include:mindgeek
 include:mozilla
 include:msi
@@ -67,12 +70,14 @@ include:oracle
 include:panasonic
 include:pccw
 include:plex
+include:progress
 include:qnap
 include:qualcomm
 include:qwant
 include:razer
 include:salesforce
 # include:samsung // Temporarily commenting out Samsung from the foreign tech entities list, its classification as 'foreign' is ambiguous because its services (e.g., Samsung Cloud) are forcibly redirected to the mainland China region when a Chinese SIM card is used, yet it lacks a clear, dedicated domain for these China-specific operations.
+include:selectel
 include:skyperfect
 include:smartone
 include:snap
