@@ -44,6 +44,7 @@ labs.google.com
 aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+aicode.googleapis.com
 aida.googleapis.com
 
 # Opal
@@ -55,3 +56,6 @@ full:antigravity-pa.googleapis.com
 full:antigravity.googleapis.com
 antigravity.google
 antigravity-unleash.goog
+
+# Stitch
+stitch.withgoogle.com
