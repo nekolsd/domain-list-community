@@ -8,6 +8,7 @@ include:longbridge
 include:n26
 include:schwab
 include:standardchartered
+include:stripe
 include:wise
 
 fxcorporate.com
