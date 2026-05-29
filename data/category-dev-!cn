@@ -74,6 +74,7 @@ cython.org
 deno.com
 deno.land
 dev.to
+elementary.io
 elixir-lang.org
 elrepo.org
 erlang.org
@@ -83,12 +84,10 @@ gentoo.org
 getcomposer.org
 getzola.org
 git-scm.com
+gnome.org
 gnu.org
 godbolt.org
-
-# PuTTY and some software official websites.
-greenend.org.uk
-
+greenend.org.uk # PuTTY and some software official websites
 hex.pm
 hexdocs.pm
 imageglass.org
@@ -97,11 +96,14 @@ jenkins.io
 js.org
 jupyter.org
 kali.org
+kde.org
 linuxfromscratch.org
 linuxmint.com
 lua.org
+lxqt-project.org
 macports.org
 mariadb.org
+mate-desktop.org
 mingw.org
 mobatek.net
 mpv.io
@@ -123,6 +125,7 @@ pcre.org
 phantomjs.org
 php.net
 piwheels.org
+plasma-mobile.org
 postgresql.org
 putty.org
 r-project.org
@@ -137,6 +140,7 @@ shellcheck.net
 shields.io
 sqlite.org
 sublimetext.com
+system76.com
 tampermonkey.net
 termius.com
 topcoder.com
@@ -150,6 +154,7 @@ webflow.com
 weblate.org
 wireshark.org
 x.org
+xfce.org
 xposed.info
 yarnpkg.com
 ziglang.org
