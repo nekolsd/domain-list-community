@@ -52,6 +52,8 @@ include:nytimes
 include:oan
 include:realclear
 include:rferl
+include:rossiyasegodnya
+include:rt
 include:rthk
 include:sankei
 include:scmp
@@ -139,7 +141,6 @@ realvision.com
 rfa.org
 rfi.fr
 rsf.org
-rt.com
 rtings.com
 shuziyimin.org
 singpao.com.hk
