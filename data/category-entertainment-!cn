@@ -76,6 +76,7 @@ include:tmdb
 include:tvdb
 include:tver
 include:twitch
+include:unext
 include:vimeo
 include:visualarts
 include:viu
