@@ -7,6 +7,7 @@ include:category-ai-!cn
 include:pubmatic
 include:taboola
 
+fullstory.com
 scorecardresearch.com
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
@@ -305,7 +306,6 @@ include:tutanota
 include:twilio
 include:vercel
 include:wix
-include:wordpress
 include:zendesk
 include:zeplin
 include:zoho
@@ -354,10 +354,6 @@ collinsdictionary.com
 ldoceonline.com
 immersivetranslate.com # 沉浸式翻译 (国际版)
 imtintl.com # 沉浸式翻译 (国际版)
-## WordPress plugins
-hivepress.io
-motopress.com
-wpmailsmtp.com
 
 # Software development
 include:category-dev-!cn
@@ -406,5 +402,6 @@ include:windy
 include:xdty
 include:xingrz
 
+avermedia.com
 sinyalee.com
 zhangzhehan.net

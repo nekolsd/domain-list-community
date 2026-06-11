@@ -8,6 +8,7 @@ include:canonical
 include:codeberg
 include:dart
 include:debian
+include:discourse
 include:docker
 include:embedly
 include:facebook-dev
@@ -56,6 +57,7 @@ include:thelinuxfoundation
 include:tilda
 include:unity
 include:v8
+include:wordpress
 
 adventofcode.com
 alpinelinux.org
@@ -165,3 +167,9 @@ xposed.info
 yarnpkg.com
 ziglang.org
 zsh.org
+
+# WordPress plugins
+elegantthemes.com
+hivepress.io
+motopress.com
+wpmailsmtp.com
