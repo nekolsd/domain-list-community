@@ -221,6 +221,7 @@ include:apkcombo
 include:apkmirror
 include:apkpure
 include:category-antivirus
+include:category-consent-management
 include:category-enhance-gaming
 include:category-ntp-!cn
 include:category-password-management
@@ -341,13 +342,6 @@ osmand.net
 ## Xiaomi Flash (not affiliated with the official Xiaomi)
 xiaomiflash.com
 
-## Consent Management Platforms / Cookie services
-consentpro.com
-cookiepro.com
-cookielaw.org
-onetrust.com
-osano.com
-usercentrics.eu
 ## Translators & Dictionaries
 include:linguee
 collinsdictionary.com
