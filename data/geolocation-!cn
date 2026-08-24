@@ -39,7 +39,7 @@ include:tesla
 include:volvo
 
 # Bank & Finance
-include:category-finance
+include:category-finance-!cn
 include:mastercard
 include:paypal
 include:softbank
