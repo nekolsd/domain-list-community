@@ -15,11 +15,8 @@ include:category-anticensorship
 include:category-proxy-tunnels
 
 # Art & Design & Photography
-include:artstation
 include:dribbble
 include:dyna
-include:flickr
-include:fonts
 include:fontsinuse
 include:gettyimages
 include:glyphs
@@ -42,11 +39,10 @@ include:tesla
 include:volvo
 
 # Bank & Finance
-include:dowjones
+include:category-finance
 include:mastercard
 include:paypal
 include:softbank
-include:stripe
 include:visa
 ## アプリペイ
 app-pay.jp
@@ -123,7 +119,6 @@ include:edx
 include:egghead
 include:embl
 include:freecodecamp
-include:kaggle
 include:khanacademy
 include:laracasts
 include:libgen
@@ -145,6 +140,7 @@ include:zotero
 ankiuser.net
 ankiweb.net
 chemequations.com # 线上化学方程式！
+divdyn.com
 geogebra.org
 wolframalpha.com
 
@@ -173,9 +169,6 @@ include:streamable
 # Forums & Social network
 include:category-forums-!cn
 include:category-social-media-!cn
-
-# IPFS
-include:category-ipfs
 
 # Media & News & Press
 include:category-media-!cn
@@ -213,9 +206,6 @@ wto.org
 # Porn
 include:category-porn
 
-# Religion
-include:falungong
-
 # Services & Softwares
 include:apkcombo
 include:apkmirror
@@ -235,7 +225,6 @@ include:rsshub-3rd
 include:accuweather
 include:adblock
 include:adblockplus
-include:addthis
 include:addtoany
 include:adguard
 include:aptoide
@@ -247,7 +236,6 @@ include:chatango
 include:cloudconvert
 include:contentful
 include:cuttly
-include:digitalocean
 include:disqus
 include:duckduckgo
 include:easylist
@@ -257,6 +245,7 @@ include:evernote
 include:faststone
 include:feedly
 include:figma
+include:flyio
 include:gofundme
 include:gravatar
 include:hcaptcha
@@ -291,7 +280,6 @@ include:reurl
 include:sb
 include:setapp
 include:sharethis
-include:shopify
 include:slideshare
 include:sourceforge
 include:squareup
@@ -388,7 +376,6 @@ include:huanghuagang
 include:lavteam
 include:mcdonalds
 include:rb
-include:reagroup
 include:scenesource
 include:starbucks
 include:tsquare
